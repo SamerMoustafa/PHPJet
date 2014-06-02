@@ -2,6 +2,7 @@
 
     "name" : "phpjet/phpjet",
     "description" : "PHP Framework and CMS",
+    "license" : "MIT",
 
     "authors" : [
         {
